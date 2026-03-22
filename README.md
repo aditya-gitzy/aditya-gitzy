@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&w=1920&q=80" alt="Cyberpunk Tech Banner" height="50"width="100%">
-</p>
 ### Hi there, I'm Aditya! 👋
 
 I'm a first-year Computer Engineering student at DBIT, Mumbai, focused on building clean, functional web applications and exploring the world of software engineering.

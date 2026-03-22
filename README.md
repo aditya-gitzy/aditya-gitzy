@@ -20,3 +20,9 @@ I'm a first-year Computer Engineering student at DBIT, Mumbai, focused on buildi
 
 **⚡ Outside of coding:**
 When I'm not staring at an IDE, you can probably catch me playing Minecraft or COD, watching some anime, or cheering for Real Madrid.
+---
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-gitzy&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-gitzy&layout=compact&theme=dark&hide_border=true" width="48%" />
+</div>

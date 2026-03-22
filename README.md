@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Aditya%20Lande&fontSize=70&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Web%20Dev&descAlignY=65&descSize=22" alt="Aditya Lande Header" width="100%" />
+</div>
 ### Hi there, I'm Aditya! 👋
 
 I'm a first-year Computer Engineering student at DBIT, Mumbai, focused on building clean, functional web applications and exploring the world of software engineering.

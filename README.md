@@ -3,9 +3,8 @@
 I'm a first-year Computer Engineering student at DBIT, Mumbai, focused on building clean, functional web applications and exploring the world of software engineering.
 
 **🔭 What I'm up to right now:**
-* Gearing up for the Google 'The Big Code' Challenge.
 * Continuously polishing my [personal portfolio website](https://aditya-gitzy.github.io/).
-* Expanding my full-stack capabilities (check out my SGPA Calculator and Interactive India Explorer below).
+* Expanding my full-stack capabilities (check out my SGPA Calculator, RA and Interactive India Explorer below).
 
 **🌱 My recent experience:**
 * Completed Virtual Experience Programs with **JP Morgan** and **Microsoft**.
